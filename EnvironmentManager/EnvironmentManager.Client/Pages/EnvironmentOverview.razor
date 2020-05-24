@@ -1,0 +1,15 @@
+﻿@page "/environment"
+
+<h2>Environments</h2>
+
+@if (environments == null)
+{
+    <p>loading...</p>
+}
+else
+{
+    @foreach (var e in environments)
+    {
+        <div><a href="/environment/@e.EnvironmentId">@e.Name</a> : @e.Description</div>
+    }
+}

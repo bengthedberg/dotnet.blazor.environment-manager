@@ -1,0 +1,11 @@
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\bin\Debug\netstandard2.0\EnvironmentManager.Data.deps.json
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\bin\Debug\netstandard2.0\EnvironmentManager.Data.dll
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\bin\Debug\netstandard2.0\EnvironmentManager.Data.pdb
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\bin\Debug\netstandard2.0\EnvironmentManager.Core.dll
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\bin\Debug\netstandard2.0\EnvironmentManager.Core.pdb
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\obj\Debug\netstandard2.0\EnvironmentManager.Data.csprojAssemblyReference.cache
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\obj\Debug\netstandard2.0\EnvironmentManager.Data.AssemblyInfoInputs.cache
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\obj\Debug\netstandard2.0\EnvironmentManager.Data.AssemblyInfo.cs
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\obj\Debug\netstandard2.0\EnvironmentManager.Data.csproj.CopyComplete
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\obj\Debug\netstandard2.0\EnvironmentManager.Data.dll
+C:\code\blazor.notes\EnvironmentManager\EnvironmentManager.Data\obj\Debug\netstandard2.0\EnvironmentManager.Data.pdb

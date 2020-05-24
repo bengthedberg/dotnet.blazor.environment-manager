@@ -1,0 +1,14 @@
+﻿@page "/environment/{EnvironmentId}"
+
+
+@if (environment == null)
+{
+
+}
+else
+{
+    <div>
+        <h2>@environment.Name</h2>
+        <h3>@environment.Description</h3>
+    </div>
+}
